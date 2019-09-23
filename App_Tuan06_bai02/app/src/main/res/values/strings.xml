@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App_Tuan06_bai02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="aaction_setting">Setting</string>
+    
+    <color name="colred">#F00</color>
+    <color name="colgreen">#0F0</color>
+    <color name="colblue">#00F</color>
+</resources>
